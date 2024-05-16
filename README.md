@@ -10,7 +10,7 @@ To use this webpage click on the links in the heading to take you to a different
 
 ![Screenshot 1](/Develop/assets/images/Screenshot_1.PNG), ![Screenshot 2](/Develop/assets/images/Screenshot_2.PNG), ![Screenshot 3](/Develop/assets/images/Screenshot_3.PNG) 
 
-![Deployed Application](https://trashpanda364.github.io/modual_1_challenge/)
+![Deployed Application](https://trashpanda364.github.io/Modual_1_challenge/)
 
 ## Credits
 
